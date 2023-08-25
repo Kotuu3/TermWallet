@@ -1,4 +1,2 @@
- _____ ___ ___ __ __  _   _   __  _   _   ___ _____  
-|_   _| __| _ \  V  || | | | /  \| | | | | __|_   _| 
-  | | | _|| v / \_/ || 'V' || /\ | |_| |_| _|  | |   
-  |_| |___|_|_\_| |_|!_/ \_!|_||_|___|___|___| |_|     
+# How to run TermWallet?
+First, you need to download wallet.py file, then you just need to run program in console using "python wallet.py" command
